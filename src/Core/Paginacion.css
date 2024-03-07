@@ -1,0 +1,14 @@
+.pagination-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px; 
+  }
+  
+  .pagination-container button {
+    width: 10em; 
+    height: 2em;
+    font-size: larger;
+    margin: 0 3em; 
+  }
+  
+  
